@@ -1,0 +1,7 @@
+Status: Closed
+Priority: Medium
+Assignee: Delmar Portal Team
+Category: QA
+Error severity: 1 - data loss
+Deployed to: Not deployed
+Type of task: Operational
